@@ -1,0 +1,29 @@
+typography_spectrum: 0.843113215174526
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43674824154004455
+  lightness: 0.6011576161254197
+  saturation: 0.8639008565805852
+  rhythmicContrast: 0.13095587119460106
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6510688401758671
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Panama Canal Adventures
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Welcome to the Panama Canal
+purpose: []
