@@ -1,6 +1,6 @@
 name: Panama Canal Adventures
 favicon: null
-layout_spectrum: 0.50407
+layout_spectrum: 0.2421
 typography_spectrum: 0.65583
 title: Welcome to the Panama Canal
 description: Find all the Panama Canal activities available here!
@@ -23,7 +23,7 @@ color:
     - '#b3deee'
     - '#bdb93d'
     - '#839910'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.75
   rhythmicContrast: 0.5
