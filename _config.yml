@@ -28,6 +28,9 @@ navigation:
   - name: History
     id: ed38958c-2dc9-4681-82a8-292439ee7c92
     type: content
+  - name: About
+    id: fb097c42-71ce-4785-a615-743cf7860262
+    type: content
 favicon: null
 title: Welcome to the Panama Canal
 description: Find all the Panama Canal activities available here!
