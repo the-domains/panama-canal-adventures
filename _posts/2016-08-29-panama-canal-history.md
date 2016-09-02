@@ -1,25 +1,21 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Panama Canal History
-datePublished: '2016-08-29T20:14:46.224Z'
-dateModified: '2016-08-29T20:14:35.537Z'
+datePublished: '2016-08-30T19:38:54.453Z'
+dateModified: '2016-08-30T19:38:53.917Z'
 author: []
 via: {}
 title: ''
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-08-29-panama-canal-history.md
-_type: Blurb
+authors: []
+publisher: {}
+starred: false
+url: panama-canal-history/index.html
+_type: Article
 
 ---
 **Panama Canal History**
