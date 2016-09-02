@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome to the Panama Canal]]></title>
+        <description><![CDATA[Welcome to the Panama Canal]]></description>
+        <link>http://panamacanaladventures.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 19:40:52 GMT</lastBuildDate>
+        <atom:link href="http://panamacanaladventures.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/223f723b-0de5-4237-a3ec-a31a2d2a6541.jpg">]]></description>
+            <link>http://panamacanaladventures.com/panama-canal/index.html</link>
+            <guid isPermaLink="false">fb097c42-71ce-4785-a615-743cf7860262</guid>
+            <pubDate>Tue, 30 Aug 2016 19:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463edc03-92ed-48c0-8c9d-00cf3a716dc4.jpg">]]></description>
+            <link>http://panamacanaladventures.com/panama-canal-history/index.html</link>
+            <guid isPermaLink="false">ed38958c-2dc9-4681-82a8-292439ee7c92</guid>
+            <pubDate>Tue, 30 Aug 2016 19:38:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
