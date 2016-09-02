@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Panama Canal
-datePublished: '2016-08-29T20:06:49.822Z'
-dateModified: '2016-08-29T19:26:51.815Z'
+datePublished: '2016-08-30T19:40:49.357Z'
+dateModified: '2016-08-30T19:40:48.201Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: _posts/2016-08-29-panama-canal.md
+starred: false
 url: panama-canal/index.html
 _type: Article
 
