@@ -1,37 +1,28 @@
-typography_spectrum: 0.65583
-color:
-  brandColors:
-    - '#223671'
-    - '#319bcb'
-    - '#b3deee'
-    - '#bdb93d'
-    - '#839910'
-  brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.2421
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: Panama Canal Adventures
+favicon: null
+layout_spectrum: 0.6510688401758671
+typography_spectrum: 0.843113215174526
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: History
-    id: ed38958c-2dc9-4681-82a8-292439ee7c92
-    type: content
-  - name: About
-    id: fb097c42-71ce-4785-a615-743cf7860262
-    type: content
-favicon: null
-title: Welcome to the Panama Canal
-description: Find all the Panama Canal activities available here!
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43674824154004455
+  lightness: 0.6011576161254197
+  saturation: 0.8639008565805852
+  rhythmicContrast: 0.13095587119460106
 purpose: []
